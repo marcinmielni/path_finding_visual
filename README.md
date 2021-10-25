@@ -1,3 +1,3 @@
-# path_finding_visual
+# Path finding algoritm
 
 The visualization of path finding algorithm
